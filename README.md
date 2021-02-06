@@ -1,3 +1,3 @@
 # University
 
-Here there a re the projects I did at University
+Here there are the projects I did at University
