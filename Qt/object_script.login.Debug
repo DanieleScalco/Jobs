@@ -1,0 +1,17 @@
+debug/admin.o
+debug/dialog.o
+debug/dialog2.o
+debug/dialog3.o
+debug/dialog4.o
+debug/dialog5.o
+debug/dialog6.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_admin.o
+debug/moc_dialog.o
+debug/moc_dialog2.o
+debug/moc_dialog3.o
+debug/moc_dialog4.o
+debug/moc_dialog5.o
+debug/moc_dialog6.o
+debug/moc_mainwindow.o
